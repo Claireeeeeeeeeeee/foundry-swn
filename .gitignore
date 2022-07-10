@@ -1,0 +1,16 @@
+# IDE
+.idea/
+.vs/
+
+# Node Modules
+node_modules/
+package-lock.json
+
+foundryconfig.json
+dist
+package/
+foundry/
+src/module/entities.ts
+src/module/documents.ts
+data/
+.vscode/launch.json
