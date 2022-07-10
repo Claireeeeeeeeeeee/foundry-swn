@@ -19,6 +19,7 @@
   "gridDistance": 1,
   "gridUnits": "m",
   "primaryTokenAttribute": "health",
+  "secondaryTokenAttribute": "power",
   "url": "https://github.com/Claireeeeeeeeeeee/foundry-swn",
   "manifest": "https://raw.githubusercontent.com/Claireeeeeeeeeeee/foundry-swn/main/system.json",
   "download": "https://github.com/Claireeeeeeeeeeee/foundry-swn/archive/refs/heads/main.zip",
